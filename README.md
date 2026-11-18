@@ -18,7 +18,15 @@
 - `index.html` — page structure
 - `style.css` — layout, colours, and animation
 - `script.js` — audio controls and interaction
-- `audio/sunny-toronto-soundscape.wav` — original 75-second soundscape
+- `audio/sunny-toronto-soundscape.wav` — edited 75-second soundscape
 - `images/toronto-waterfront.svg` — original vector illustration
 
-No external media assets are used.
+## Audio sources
+
+The soundscape mixes three real CC0 field recordings from Freesound:
+
+- [City ambience.wav](https://freesound.org/people/chimerical/sounds/106839/) by chimerical
+- [Forest birds - ambient seamless loop](https://freesound.org/people/Magnesus/sounds/723913/) by Magnesus
+- [Lake waves.wav](https://freesound.org/people/Anya_Media/sounds/523392/) by Anya_Media
+
+All three recordings are available under the Creative Commons 0 license.
